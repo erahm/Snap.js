@@ -1,5 +1,5 @@
 # Snap.js
-A Library for creating beautiful mobile shelfs in Javascript
+A Library for creating beautiful mobile shelves in Javascript
 
 <a href="http://www.screenr.com/embed/0EJ7" target="_blank">View Video Preview</a>
 
